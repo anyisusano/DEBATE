@@ -1,0 +1,38 @@
+    body {
+  font-family: Arial, sans-serif;
+  background: url(IMG/religious.jpg);
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+        #chat-box {
+            border: 1px solid #ccc;
+            padding: 10px;
+            height: 300px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            background-color: #f9f9f9;
+        }
+        .message {
+            padding: 5px;
+            margin: 5px 0;
+        }
+        .ateo {
+            color: red;
+        }
+        .catolico {
+            color: blue;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        H1{
+            color: rgb(0, 0, 0);
+            background-color: #fdffe6;
+            max-width: 500PX;
+            text-align: center;
+            margin: auto;
+                margin-bottom: 30px;
+        }
